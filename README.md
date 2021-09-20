@@ -43,3 +43,4 @@ docker network connect rng worker
 docker container run --detach --entrypoint node --name webui --network redis --restart always --volume ${PWD}/webui/webui.js:/app/webui.js:ro --volume ${PWD}/webui/files/:/app/files/:ro --workdir /app/ ${github_username}/${github_repo}:${github_branch}-webui webui.js
 
 ```
+
