@@ -5,7 +5,7 @@ github_username=escallada
 github_repo=dockercoins
 github_branch=2021-09
 
-git clone https://github.com/${github_username}/${github_repo}
+git clone https://github.com/jose-${github_username}/${github_repo}
 cd ${github_repo}/
 git checkout ${github_branch}
 
