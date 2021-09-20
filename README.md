@@ -1,8 +1,8 @@
 # dockercoins
 
 ```
-github_username=ganimedes-colomar
-github_repo=dockercoins-2
+github_username=escallada
+github_repo=dockercoins
 github_branch=2021-09
 
 git clone https://github.com/${github_username}/${github_repo}
