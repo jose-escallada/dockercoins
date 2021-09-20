@@ -1,3 +1,5 @@
+[![CI-swarm](https://github.com/jose-escallada/dockercoins/actions/workflows/ci-swarm.yaml/badge.svg?branch=2021-09)](https://github.com/jose-escallada/dockercoins/actions/workflows/ci-swarm.yaml)
+
 # dockercoins
 
 ```
